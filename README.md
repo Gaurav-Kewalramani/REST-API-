@@ -1,4 +1,4 @@
-# REST-API-
+# REST-API-SpringBoot
 Create REST APIs that perform CRUD operations on student entities. Please follow the below points-
 Use MongoDB
 Do request payload validation for POST and PUT endpoints
